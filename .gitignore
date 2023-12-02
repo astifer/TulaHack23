@@ -1,0 +1,12 @@
+images
+drive-download
+runs
+*.ipynb
+*.csv
+*.pt
+env
+.env
+venv
+.venv
+__pycache__
+*.zip

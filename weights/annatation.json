@@ -1,0 +1,5 @@
+{
+    "small" : "yolov8s.pt",
+    "medium": "yolov8m.pt",
+    "large": "yolov8l.pt"
+}
